@@ -6,6 +6,7 @@ enableEmoji=true
 enableRobotsTXT=true
 pygmentsUseClasses=true
 pygmentsCodeFences=true
+themesDir = './themes'
 
 [params.intro]
   main = "Ahoj, jsem Adam :wave:"
@@ -90,3 +91,4 @@ pygmentsCodeFences=true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
