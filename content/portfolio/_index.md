@@ -3,6 +3,25 @@ title: PORTFOLIO
 description: 'Portfolio Section'
 ---
 
+### Tato stránka
+- Hostuje <a href="https://dash.cloudflare.com/" target="_blank">CloudFlare</a> který:
+
+    - používá nejnovější firewall
+    - má nejlepší DDoS protekci(248Tbps)
+    - má optimalizace směrování který zaručují několikrát rychlejší připojení ke stránce
+    - používá protekci proti ůtočníkům obcházejicí zabezpečení stránky
+    - rozkládá zátěž po všech serverech ve 310 městech po celém světě
+    - zaručuje připojení z nejbližšího serveru takže 95% celý lidský populace dosáhne za méně než 50ms
+
+- Běží přes <a href="https://gohugo.io" target="_blank">Hugo</a>, jeden z nejrychlejších statických generátorů který:
+    - buildí stránku za méně než 1ms
+    - umožňuje používat <a href="https://www.markdownguide.org/basic-syntax/" target="_blank">markdown</a>(který tato stránka používá)
+    - má virtuální souborový systém do kterýho může připojovat formuláře a soubory mimo kořen pouze hlavní projekt
+
+- <a href="https://github.com/bjacquemet/personal-web" target="_blank">Hugo Theme</a> který jsem použil
+
+- <a href="https://github.com/cybutr/adam-simek-personal-portfolio" target="_blank">GitHub</a> repozitář stránky
+
 ### Python
 
 - S pythonem jsem začal pracovat v roce 2020 když jsem byl na online workshopu od <a href="https://tib.cz" target="_blank">TIB</a> a dost mě to zaujalo.
@@ -20,13 +39,12 @@ description: 'Portfolio Section'
 ### LUA
 
 - Často hraju <a href="https://www.roblox.com/home" target="_blank">roblox</a> kde LUA je hlavní programovací jazyk.
-- Párkrát jsem si vytvořil hru v roblox studiu a přitom jsem se LUA dost načil. Hry bohužel nebyly úspěšné jako většina her na robloxu.
-- Umím pracovat s hodně ze syntaxe LUA.
+- Párkrát jsem si vytvořil hru v roblox studiu a přitom jsem se LUA mírně naučil. Hry bohužel nebyly úspěšné jako většina her na robloxu.
 
 ### HTML
 
-- HTML jsem hlavně začal používat když nám přidali předmět programování ve škole.¨
-- Učili jsme se pracovat zatím jen s HTML který mi jde více a JS který mi jde více.
+- HTML jsem hlavně začal používat když nám přidali předmět programování ve škole.
+- Učili jsme se pracovat zatím jen s HTML který mi jde více a JS.
 - Z HTML umím používat:
 
     - Bloky
@@ -36,10 +54,8 @@ description: 'Portfolio Section'
     - Formuláře
     - Odkazy a obrázky
 
-### Co dělám ve volném čase
 
-- Jezdím na kole
-- Vesluju
-- Hraju počítačové hry
-- Háčkuju
-- Programuju nové věci
+
+### HackDays 2023
+Konáno od 20. do 24. srpna  
+<a href="/portfolio/certificate.pdf" target="_blank">Certifikát</a>
