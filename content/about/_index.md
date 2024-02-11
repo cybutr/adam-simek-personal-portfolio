@@ -4,10 +4,10 @@ description: Ahoj, jsem Adam Šimek
 images: ["/images/sample.jpg"]
 ---
 
-Jmenuji se <ins>**Adam Šimek**</ins>, narodil jsem se v Karlovarském kraji, odkud jsme se s roďiči odstěhovali do Prahy.
+Jmenuji se <ins>**Adam Šimek**</ins>, narodil jsem se v Karlovarském kraji, odkud jsme se s rodiči odstěhovali do Prahy.
 
 ### Personalita
-Když jsem byl malý, tak ze mě hodně vyzařovala velká extraverze, ale to časem odpadlo a teď jsem dost **introvertní**. Často jsem si stavěl z lega a dřeva, což mě jako malého dost bavilo.
+Když jsem byl malý, tak ze mě hodně vyzařovala velká extroverze, ale to časem odpadlo a teď jsem dost **introvertní**. Často jsem si stavěl z lega a dřeva, což mě jako malého dost bavilo.
 
 ### Zájmy
 Už od malička mě zajímaly hry, na ty jsem si taky vytvořil závislost, kterou jsem ale zdolal.
@@ -18,7 +18,7 @@ V 7 letech jsem začal chodit na kroužek programování v <a href="https://scra
 Po tom co jsem skončil s karate, tak jsem se přidal do klubu <a href="http://www.vksmichov.cz" target="_blank">VK Smíchov</a>, kde vesluji už půl roku.
 
 ### Škola
-Vždy mi nejvíce šla **matika**, ale ne moc češťina. Když nám přidali **chemii** a **fyziku** do předmětů, tak mě to okamžitě nadchnulo, chemie mi šla více než fyzika, ale u obou mám do teď velmi dobrý průměr. V 5. třídě jsme dostali na výběr jeden ze zaměřovacích předmětů a já si vybral seminář z matematiky, s kterým taky přislo **programování**, na tom jsme na začátku pracovali s pythonem a později přešli k **HTML** a **JS**, k CSS jsme nikdy nedošli. V průběhu tohoto předmětu jsem se naučil dost s HTML a JS, a to mě teď baví nejvíce.
+Vždy mi nejvíce šla **matika**, ale ne moc čeština. Když nám přidali **chemii** a **fyziku** do předmětů, tak mě to okamžitě nadchlo, chemie mi šla více než fyzika, ale u obou mám do teď velmi dobrý průměr. V 5. třídě jsme dostali na výběr jeden ze zaměřovacích předmětů a já si vybral seminář z matematiky, s kterým taky přišlo **programování**, na tom jsme na začátku pracovali s pythonem a později přešli k **HTML** a **JS**, k CSS jsme nikdy nedošli. V průběhu tohoto předmětu jsem se naučil dost s HTML a JS, a to mě teď baví nejvíce.
 
 
 
