@@ -1,6 +1,6 @@
 baseURL = ''
 languageCode = 'en-us'
-title = 'My Portfolio'
+title = 'Moje Portfolio'
 theme = 'personal-web'
 enableEmoji=true
 enableRobotsTXT=true

@@ -34,7 +34,7 @@ description: 'Portfolio Section'
 - C# jsem poprvé využil v roce 2020, když jsem si stáhl herní engine <a href="https://unity.com" target="_blank">Unity</a>, v kterým se programuje hlavně v C#.
 - Rok po tom jsem tedy začal chodit na kroužek Programování v Unity od TIB.
 - Na kroužku jsme se naučili jak pracovat s modely z <a href="https://assetstore.unity.com" target="_blank">Unity Asset Storem</a>, efektama, programovat s C# a jak hotovou hru převést na mobilní zařízení.
-- Naprogramoval jsem napřiklad závodní hru, hru o přežití, plošinovku(tu jsme převáděli na mobilní zařízení).
+- Naprogramoval jsem například závodní hru, hru o přežití, plošinovku (tu jsme převáděli na mobilní zařízení).
 
 ### LUA
 
