@@ -1,5 +1,5 @@
 ---
-title: DOMOVSKÁ STRÁNKA
+title: 
 description: Welcome to this sample project
 images: ["/images/sample.jpg"]
 ---
