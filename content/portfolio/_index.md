@@ -43,7 +43,7 @@ description: 'Portfolio Section'
 ### HTML
 
 - HTML jsem hlavně začal používat když nám přidali předmět programování ve škole.
-- Učili jsme se pracovat zatím jen s HTML, který mi jde více a JS.
+- Učili jsme se pracovat s HTML, JS a základama CSS.
 - Z HTML umím používat:
 
     - Bloky

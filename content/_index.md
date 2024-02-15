@@ -33,7 +33,6 @@ images: ["/images/sample.jpg"]
 - Háčkuju
 - Vařím
 - Hraju počítačové i stolní hry
-- Čtu si
 - Cestuju
 <div class="portfolio-list">
   <a href="/posts/explore">
